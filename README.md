@@ -7,7 +7,7 @@ This is the design and implementation of a SQL database made to cater to needs o
 Even before the covid-19 pandemic , online forums were on the rise. More and more people were using the internet for all sorts of things. Education was no different.
 Covid only accelarated this and we all know how much we depend on such online learnig platforms and communities.
 
-So we (Me and my partner Naman) tried to make a database structure that could serve as the backbone of such a database.
+So we (Aman and Naman) tried to make a database structure that could serve as the backbone of such a database.
 More on this in the problem-statement and report pdf.
 
 ## Design
